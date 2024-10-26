@@ -73,7 +73,7 @@ Team Management
     2. Add Member to Team
       ->Endpoint: PUT /api/teams/add
 
-Testing the API with Postman
+# Testing the API with Postman
 
     1. Install Postman: Download and install Postman if you haven’t already.
     2. Create a New Collection: Name it "Task Tracking API".
@@ -81,6 +81,6 @@ Testing the API with Postman
     4. Set Authorization: For endpoints that require authentication, select "Bearer Token" and enter the token received during login.            
 
   
-Conclusion
+3 Conclusion
 
     This task tracking and management application is designed to enhance team collaboration and productivity. The architecture is scalable, and you can extend features such as real-time notifications. Feel free to contribute and improve the project!
